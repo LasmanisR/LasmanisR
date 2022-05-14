@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LasmanisR
 - 👀 I’m interested in Programming, 3D Modeling and all other electronics stuff.
-- 🌱 I’m currently learning New Stuff on ESP32 Drivers, and FALCON PREY INSPECTOR
+- 🌱 I’m currently learning New Stuff on ESP32 Drivers, and Prey By Detech - Falcon
 - 💞️ I’m looking to collaborate on Electronis?
 - 📫 How to reach me...
 
